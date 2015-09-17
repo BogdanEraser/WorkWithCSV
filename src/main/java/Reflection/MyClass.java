@@ -1,4 +1,4 @@
-package ReflectionExample;
+package Reflection;
 
 /**
  * Created by Bogdan Kukharskiy on 16.09.15.

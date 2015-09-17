@@ -1,4 +1,4 @@
-package ReflectionExample;
+package Reflection;
 
 import java.lang.reflect.*;
 import java.util.Iterator;
